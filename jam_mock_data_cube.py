@@ -1,5 +1,5 @@
 """
-    Copyright (C) 2024-2025, Michele Cappellari
+    Copyright (C) 2024-2026, Michele Cappellari
 
     E-mail: michele.cappellari_at_physics.ox.ac.uk
 
@@ -8,10 +8,11 @@
 
     If you have found this software useful for your research,
     we would appreciate a reference to the paper
-    "Nguyen D.D. et al. (submitted)".
+    `Nguyen D.D., et al. (2026), MNRAS, 546, stag238 <https://ui.adsabs.harvard.edu/abs/2026MNRAS.546ag238N>`_
 
     Changelog
     ---------
+    V1.1.1: Updated references. MC, Oxford, 21 May 2026
     V1.1.0: Rewritten dosctrings. MC, Oxford, 1 June 2025
     V1.0.0: 12 June 2024: Initial version.
 
